@@ -31,45 +31,13 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 
 ## Stack: 
-<img src="https://img.shields.io/badge/java-D0120D?style=flat-square&amp;logo=java&amp;logoColor=white">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white"> 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" /> 
-<img src="https://img.shields.io/badge/jsp-777BB4?style=flat-square&amp;logo=jsp&amp;logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /> 
-<img src="https://img.shields.io/badge/iBatis-000000?style=flat&logo=ibatis&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/java-D0120D?style=flat-square&amp;logo=java&amp;logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" />  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />  <img src="https://img.shields.io/badge/jsp-777BB4?style=flat-square&amp;logo=jsp&amp;logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />  <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />  <img src="https://img.shields.io/badge/iBatis-000000?style=flat&logo=ibatis&logoColor=white" />  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
 
 
 ### A little:
 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Vue.js-764ABC?style=flat&logo=vuedotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MyBatis-D71921?style=flat&logo=mybatis&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" /> 
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TypeORM-EE4C2C?style=flat&logo=typeorm&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />  <img src="https://img.shields.io/badge/Vue.js-764ABC?style=flat&logo=vuedotjs&logoColor=white" />  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />  <img src="https://img.shields.io/badge/MyBatis-D71921?style=flat&logo=mybatis&logoColor=white" />  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" />  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/TypeORM-EE4C2C?style=flat&logo=typeorm&logoColor=white" /> 
 
 
 
