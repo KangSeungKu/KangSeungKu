@@ -24,46 +24,80 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+JeaHyun+You;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Seungku+Kang;" alt="Typing SVG" /></a>
 <br>
 </div>
 
 
 
 ## Stack: 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/java-D0120D?style=flat-square&amp;logo=java&amp;logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white"> 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/jsp-777BB4?style=flat-square&amp;logo=jsp&amp;logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /> 
+<img src="https://img.shields.io/badge/iBatis-000000?style=flat&logo=ibatis&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
 
 
 ### A little:
-<img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white">
-<img alt="nodedotjs" src="https://camo.githubusercontent.com/7d6016c710640a0bea8dc8631271f72ca813cb8e4e2ee35c884300848e80767a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f6465646f746a732d3333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/nodedotjs-339933.svg?&amp;style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vue.js-764ABC?style=flat&logo=vuedotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MyBatis-D71921?style=flat&logo=mybatis&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" /> 
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TypeORM-EE4C2C?style=flat&logo=typeorm&logoColor=white" /> 
+
+
 
 ### Tool: 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
 
 # Project
 
 ## 2024
-<details>
+<!-- <details>
 <summary>🔥 PSEDU홀딩스 자사 학원 통합 어플 개발(FLUTTER)</summary>    
    <sub style="color: lightgray;"> 
     - API 개발<br/>
     - 커뮤니티 FLUTTER 모델작업 <br/>
     - 일반관리 FLUTTER 모델작업 <br/>
-</details>
+</details> -->
 
 ## 2023
-<details>
+<!-- <details>
 <summary>🔥 PSEDU홀딩스 6월~12월 ( RESTFUL API 방식 BACK:PHP / FRONT:REACT) </summary>    
    <sub style="color: lightgray;"> 
     - 문제은행V2 API 개발 <br/>
     - 약점공략서 API 개발 (BACK)<br/>
     - 문제은행V2 학교별 기출문제 REACT 개발
     - 문제은행V2 오답시험만들기 REACT 개발 
-</details>
+</details> -->
      
-<details>
+<!-- <details>
 <summary>🌈 PSEDU홀딩스 1월~5월 ( PHP 코드이그나이터를 이용한 MVC2 방식) </summary>    
    <sub style="color: lightgray;"> 
     - 문제은행V1 학제학년별 단원트리 리뉴얼 프로젝트 개발<br/>
@@ -71,10 +105,10 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - 문제은행V1 오답시험모아만들기 기능 개발<br/>
     - 학원관리시스템 학생 진도계획표 기능 개발<br/>
     - 학원별 공식홈페이지 내 관리자페이지 기능 개발<br/>
-</details>
+</details> -->
      
 ## 2022
-<details>
+<!-- <details>
 <summary>🌈 PSEDU홀딩스 ( PHP 코드이그나이터를 이용한 MVC2 방식) </summary>    
    <sub style="color: lightgray;"> - 문제은행V1 솔루션 성적처리(간편채점/온라인채점/OMR채점) 개발, 
     - 학원관리시스템 솔루션 카드단말기 연동<br/>
@@ -85,11 +119,11 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - 학원관리시스템 / 문제은행V1 솔루션 고객센터 기능 개발<br/>
     - QR리더 출석체크 기능 개발 (등하원모니터링) <br/> 
     - 문제은행V1 엑셀다운로드 기능개발( 학생 랭킹 / 가장 많이틀린문제 / 만점학생리스트 )<br/>
-</details>
+</details> -->
 
 
 ## 2021
-- 🌈 21.12 ~ 현재재직중 PSEDU홀딩스
+<!-- - 🌈 21.12 ~ 현재재직중 PSEDU홀딩스
 <details>
 <summary>✨ 21.09 ~ 12 에스지에이E스포츠 </summary>    
    <sub style="color: lightgray;">
@@ -111,7 +145,9 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - 힐링 웹사이트 프로젝트 개발 (원내 최우수상수여)<br/>
     - 도서쇼핑몰 프로젝트 개발<br/>
     - 프로젝트 기획 및 팀장 (원내 공로상수여)<br/></sub>    
-</details>
+</details> -->
+
+## 2020
 
 <br><br>
 <!-- Footer banner -->
