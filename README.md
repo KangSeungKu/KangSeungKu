@@ -37,7 +37,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ### A little:
 <img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white">
-
+<img alt="nodedotjs" src="https://camo.githubusercontent.com/7d6016c710640a0bea8dc8631271f72ca813cb8e4e2ee35c884300848e80767a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f6465646f746a732d3333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/nodedotjs-339933.svg?&amp;style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
 
 ### Tool: 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
